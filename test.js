@@ -1,3 +1,3 @@
 var p = {
-  page: {{name}}
+  page: {{yoyo}}
 }
