@@ -1,3 +1,3 @@
 var p = {
-  page: {{#if yoyo || '否则'}}
+  page: {{yoyo}}
 }
